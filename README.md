@@ -12,7 +12,7 @@ https://huggingface.co/datasets/allenai/ai2_arc
 https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
 
 
-### Benchamrk for ARC Challenge Set:
+### Benchmark for ARC Challenge Set:
 
 https://paperswithcode.com/sota/common-sense-reasoning-on-arc-challenge
 
